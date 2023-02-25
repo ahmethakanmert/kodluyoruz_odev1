@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.anamenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.anamenu li{
+display: inline;
+}
